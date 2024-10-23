@@ -3,6 +3,6 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
 export default defineConfig({
-    base: "/Useeffect/", // Ensure the base path is correct
+    base: "/UseEffects/", // Ensure the base path is correct
     plugins: [react()],
 });
